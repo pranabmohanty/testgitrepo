@@ -26,7 +26,7 @@ define( 'DB_NAME', 'testwordpress_new' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'test' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
